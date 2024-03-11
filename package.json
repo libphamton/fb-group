@@ -1,6 +1,6 @@
 {
   "name": "@libphamton/fb-group",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/libphamton/fb-group#readme",
   "dependencies": {
+    "@libphamton/api-chatbot": "^1.0.0",
     "@libphamton/api-client-x": "^1.0.7",
     "@libphamton/chatfanpage": "^1.0.1",
     "@libphamton/client-fb": "github:libphamton/client-fb",
