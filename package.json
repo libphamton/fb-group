@@ -20,6 +20,5 @@
   },
   "homepage": "https://github.com/libphamton/fb-group#readme",
   "dependencies": {
-    "@oraliepham/api-facebooknew": "^1.0.5",
   }
 }
