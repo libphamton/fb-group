@@ -1,6 +1,6 @@
 {
   "name": "@libphamton/fb-group",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
@@ -18,7 +18,6 @@
   "bugs": {
     "url": "https://github.com/libphamton/fb-group/issues"
   },
-  "homepage": "https://github.com/libphamton/fb-group#readme",
-  "dependencies": {
-  }
+  "homepage": "https://github.com/libphamton/fb-group/#readme",
+  "packageManager": "yarn@4.1.1"
 }
